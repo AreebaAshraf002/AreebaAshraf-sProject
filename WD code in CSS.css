@@ -1,0 +1,22 @@
+width: 1440px;
+height: 1024px;
+border-radius: 78px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+
+display: flex;
+width: 1440px;
+height: 1024px;
+justify-content: center;
+align-items: center;
+
+
+width: 1432.969px;
+height: 1019px;
+background: #FFF;
+filter: blur(0.9951172471046448px);
+
+
+width: 1440px;
+height: 1024px;
+background: #FFF;
